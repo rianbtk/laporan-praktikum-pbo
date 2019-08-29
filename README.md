@@ -12,15 +12,16 @@
 |--|--|
 | NIM | ***silakan isi nim di sini*** |
 | Nama Lengkap | ***silakan isi nama lengkap di sini*** |
-| Kelas | TI-2C / TI-2D (**silakan hapus salah satu**) |
+| Kelas | TI-2C / TI-2D (**silakan hapus salah satu, sesuaikan dengan kelas Anda**) |
 
 
 ## Komponen Penilaian Laporan Praktikum
 
 1. Orisinalitas (35%)
-2. Kreativitas/inovasi (25%)
+2. Kreativitas/inovasi (20%)
 3. Ketepatan mengumpulkan tugas (20%)
-4. Kesesuaian dengan aturan/instruksi (20%)
+4. Kesesuaian dengan aturan/instruksi (15%)
+5. Kerapian penulisan kode program (10%)
 
 ## Struktur Folder
 
@@ -36,7 +37,7 @@ Silakan lakukan *push* satu hari (**H-1**) sebelum pertemuan selanjutnya pada **
 
 ## Pernyataan Diri
 
-Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiat, kecurangan, menyalin/menggandakan milik orang lain.
+Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
 
 Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektual, saya siap untuk mendapat sanksi atau hukuman sesuai peraturan perundang-undangan yang berlaku.
 
