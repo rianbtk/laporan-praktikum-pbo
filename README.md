@@ -1,6 +1,4 @@
-# Petunjuk Laporan Praktikum Pemrograman Berorientasi Objek
-|  |  |
-|--|--|
+/*############################################################################################################################################################################################################################################################################*/
 | Dosen Pengampu | [Habibie Ed Dien, S.Kom., M.T.](https://github.com/habibieeddien) |
 | Tahun Ajaran | Ganjil 2019/2020 |
 | Email | habibie@polinema.ac.id |
@@ -8,11 +6,9 @@
 
 ## Data Diri
 
-|  |  |
-|--|--|
-| NIM | ***silakan isi nim di sini*** |
-| Nama Lengkap | ***silakan isi nama lengkap di sini*** |
-| Kelas | TI-2C / TI-2D (**silakan hapus salah satu, sesuaikan dengan kelas Anda**) |
+| NIM | 1942823007 |
+| Nama Lengkap | Agus Salim Hadjrianto |
+| Kelas | TI-2C |
 
 
 ## Komponen Penilaian Laporan Praktikum
@@ -25,8 +21,7 @@
 
 ## Struktur Folder
 
-| Nama Folder | Keterangan |
-|--|--|
+| Praktikum |Projek satu |
 | *docs* | Berisi dokumentasi laporan praktikum dengan format *markdown* (.md). Dokumen berisi jawaban dari soal tiap praktikum dan screenshot hasil kompilasi program. |
 | *src* | Berisi kode sumber (*source code*) pada tiap pertemuan praktikum. |
 
@@ -43,4 +38,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(silakan isi nama lengkap di sini)***
+***(Agus Salim Hadjrianto)***
