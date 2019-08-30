@@ -1,12 +1,9 @@
 # Laporan Praktikum #1 - Pengantar Konsep PBO
 
-## Kompetensi
+## Ringkasan dan Pembahasan Materi
 
-(ketiklah kompetensi tiap praktikum di sini)
-
-## Ringkasan Materi
-
-(berisi catatan penting pribadi selama praktikum berlangsung ataupun menemukan permasalahan khusus saat melakukan percobaan)
+Praktikum 1 pengantar konsep pbo sebagai bahan pembelajaran yang di dalamnya membahas tentang bagaimana membuat rinci sebuah program.
+Seperti pembahasan Procedural Programming, Object Oriented Programming, objek, class, Enkapsulasi, Inheritance  dan Polimorfisme.
 
 ## Percobaan
 
@@ -14,11 +11,9 @@
 
 (berisi penjelasan percobaan 1. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+`'![](https://github.com/rianbtk/laporan-praktikum-pbo/blob/master/docs/1_Pengantar_Konsep_PBO/sepedaBalap.PNG)
 
-![contoh screenshot](/sepeda.PNG)
-
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Contoh link kode program : [ini contoh link ke kode program](https://github.com/rianbtk/laporan-praktikum-pbo/blob/master/src/1_Pengantar_Konsep_PBO/sepedaBalap.java)
 
 ### Percobaan 2
 
@@ -26,13 +21,21 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](/sepedaSport.PNG)
+![contoh screenshot](https://github.com/rianbtk/laporan-praktikum-pbo/blob/master/docs/1_Pengantar_Konsep_PBO/sepedaSport.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Contoh link kode program : [ini contoh link ke kode program](https://github.com/rianbtk/laporan-praktikum-pbo/blob/master/src/1_Pengantar_Konsep_PBO/sepedaSport.java)
 
 ## Pertanyaan
 
-(silakan ketik pertanyaan di sini beserta jawabannya.)
+1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek! 
+2. Apa yang dimaksud dengan object dan apa bedanya dengan class? objek berarti yang nampak contoh laptop ada keyboardnya ada lcd nya ada motherboardnya ada ram,hardisknya apakah disebut laptop ? jawab iya itu laptop tapi tidak bisa di sebut laptop kalau tidak berelasi(fungsi) sedangkan class komponen pelengkap object contoh laptop , laptop jika objek lebih ke detail yang nampak class di gunakan sebagai pelengkan fungsi yang nampak contoh, laptop asus, laptop thosiba, laptop acer, laptop mini dll;
+3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan
+dengan pemrograman struktural!
+4. Pada class Sepeda, terdapat state/atribut apa saja?
+5. Bagaimana cara cucu bisa memanggil neneknya ?
+6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol?
+7. Saya dapat pertanyaan, kan saya punya nenek, nenek saya punya buyut! nah cucunya nenek pingin ngerti buyutnya buyut gimana caranya ?
+kalau dikehidupan nyata kan pasti gc mungkin :) 
 
 ## Tugas
 
@@ -40,9 +43,9 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](/sepedaBalap.PNG)
+![contoh screenshot](https://github.com/rianbtk/laporan-praktikum-pbo/blob/master/docs/1_Pengantar_Konsep_PBO/sepeda.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Contoh link kode program : [ini contoh link ke kode program](https://github.com/rianbtk/laporan-praktikum-pbo/blob/master/src/1_Pengantar_Konsep_PBO/sepeda.java)
 
 ## Kesimpulan
 
