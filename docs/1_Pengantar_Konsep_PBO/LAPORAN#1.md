@@ -27,15 +27,18 @@ Contoh link kode program : [ini contoh link ke kode program](https://github.com/
 
 ## Pertanyaan
 
-1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek! 
+1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek! bersifat real dan mudah di logika
 2. Apa yang dimaksud dengan object dan apa bedanya dengan class? objek berarti yang nampak contoh laptop ada keyboardnya ada lcd nya ada motherboardnya ada ram,hardisknya apakah disebut laptop ? jawab iya itu laptop tapi tidak bisa di sebut laptop kalau tidak berelasi(fungsi) sedangkan class komponen pelengkap object contoh laptop , laptop jika objek lebih ke detail yang nampak class di gunakan sebagai pelengkan fungsi yang nampak contoh, laptop asus, laptop thosiba, laptop acer, laptop mini dll;
 3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan
-dengan pemrograman struktural!
-4. Pada class Sepeda, terdapat state/atribut apa saja?
-5. Bagaimana cara cucu bisa memanggil neneknya ?
-6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol?
+dengan pemrograman struktural!.kelebihanya jika objek lebih bnyak kemungkinan program jadi sedangankan yang terstruktur belum pasti jadi
+4. Pada class Sepeda, terdapat state/atribut apa saja? brand, speed, maxSpeed, nama, nim
+5. Bagaimana cara cucu bisa memanggil neneknya ? warkopPortable wp = new warkopPortable(); warkopPortable.main(null);
+6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol? karena kita sudah terelasi denganclass lainya ex :        
+sepeda spx = new sepeda();
+sepeda spk = new sepeda();
+sepedaBalap spt = new sepedaBalap();
 7. Saya dapat pertanyaan, kan saya punya nenek, nenek saya punya buyut! nah cucunya nenek pingin ngerti buyutnya buyut gimana caranya ?
-kalau dikehidupan nyata kan pasti gc mungkin :) 
+kalau dikehidupan nyata kan pasti gc mungkin :)![contoh screenshot](https://github.com/rianbtk/laporan-praktikum-pbo/blob/master/docs/1_Pengantar_Konsep_PBO/contoh-schot1.PNG)
 
 ## Tugas
 
@@ -59,4 +62,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(silakan isi nama lengkap di sini)***
+***(Agus Salim Hadjrianto)***
